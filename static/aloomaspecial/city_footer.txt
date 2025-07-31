@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">How do I know what size dumpster I need?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The best way is to call us and describe your project. As a general guide, a 10 yard dumpster is for small projects, a 20 yard dumpster is for medium-sized renovations and cleanouts, and a 30 or 40 yard dumpster is for major construction or whole-home gutting.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Is it better to rent a dumpster or hire a junk removal service?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A dumpster rental in #State provides you with a container for a set period, allowing you to work at your own pace. A junk removal service typically involves a crew that loads and hauls everything at once. A dumpster is often the more cost-effective option for larger projects.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Do I need to be present for the delivery or pickup?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No, you do not need to be on-site, provided that the delivery area is clear, accessible, and you have given us specific instructions on where to place the roll off dumpster container.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">What can I not put in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You cannot dispose of any hazardous materials. This includes paints, chemicals, oils, fuels, asbestos, tires, batteries, and appliances containing Freon.</p>
+                <h4 class="template4 palooma" style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Will the dumpster damage my driveway?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While we are extremely careful, a heavy steel bin can potentially scuff a surface. We strongly recommend placing sheets of plywood down on your driveway before the container is delivered to protect the surface.</p>
+                <div class="callalooma mx-auto"><a href="tel:820 218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
